@@ -1,4 +1,4 @@
-# online-food-order-system
+# Online Food Order System
 
 Online Food Order is the process of food delivery or takeout from a local restaurant or food cooperative through a web page. Much like ordering consumer goods online, many of these services allow customers to keep accounts with them in order to make frequent ordering convenient. e-commerce refers to the purchase and sale of goods and/or services via Internet. 
 
