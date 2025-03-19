@@ -19,3 +19,5 @@ Admin panel for managing restaurants, orders, and users.
 Order tracking functionality.
 
 ## Output
+
+![Food Order}(Home.jpeg)
