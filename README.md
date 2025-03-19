@@ -20,4 +20,6 @@ Order tracking functionality.
 
 ## Output
 
-![Food Order}(Home.jpeg)
+![Food Order](Home.jpeg)
+
+![Food Order](Menu.jpeg)
